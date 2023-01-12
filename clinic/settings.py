@@ -29,6 +29,8 @@ DEBUG404 = True
 
 ALLOWED_HOSTS = ['*']
 
+CSRF_TRUSTED_ORIGINS = ['https://ocms.up.railway.app/']
+
 
 # Application definition
 
