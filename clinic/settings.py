@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-38f*a9c+(f(0ytl+=6s9it-76i-di=o@@w96=$+v53+hj2v^ar
 DEBUG = False
 DEBUG404 = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://ocms.up.railway.app/']
 
 CSRF_TRUSTED_ORIGINS = ['https://ocms.up.railway.app/']
 
